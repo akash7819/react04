@@ -1,7 +1,7 @@
 {
   "name": "chai-router",
   "homepage": "https://<akash7819>.github.io/<react04>",
-  "private": true,
+  "private": flase,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
